@@ -1,0 +1,12 @@
+John Doe, 123-456-7890, johndoe@example.com, Friend from college
+Mike Brown, 456-789-0123, mikebrown@example.com, Neighbor
+Sarah Connor, 321-654-9870, sarahconnor@example.com, Gym buddy
+Chris Paul, 210-345-6789, chrispaul@example.com, Cousin
+Alex Smith, 132-465-7980, alexsmith@example.com, Co-worker
+Laura Adams, 564-738-2910, lauraadams@example.com, Old classmate
+Brian Hall, 678-912-3456, brianhall@example.com, Book club member
+Tina Fey, 901-234-5678, tinafey@example.com, Mentor
+Steve Jobs, 123-987-6543, stevejobs@example.com, Inspiration
+Emily Blunt, 555-236-7890, emilyblunt@example.com, Movie star fan
+James Bond, 007-007-0007, jamesbond@example.com, Secret agent
+James Parker, 7737500263, ats@example.com, Me
